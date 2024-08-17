@@ -1,0 +1,26 @@
+section {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+img {
+    display: block;
+}
+
+iframe {
+    display: none;
+}
+
+h1 {
+    font-size: 1.3em;
+}
+
+#printButton {
+    display: none;
+}
+
