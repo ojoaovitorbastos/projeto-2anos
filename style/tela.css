@@ -3,6 +3,7 @@ body {
     overflow-x: hidden;
     background: url("../image/fundo-saturno.png") center center;
     background-attachment: cover;
+    background-repeat: no-repeat;
 }
 
 section {
