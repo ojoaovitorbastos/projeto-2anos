@@ -1,8 +1,8 @@
 body {
     height: 100vh;
     overflow-x: hidden;
-    background: url("../image/fundo-saturno.png") center center;
-    background-attachment: cover;
+    background: #040309 url("../image/fundo-saturno.png") center center;
+    background-attachment: contain;
     background-repeat: no-repeat;
 }
 
